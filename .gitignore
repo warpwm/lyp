@@ -1,1 +1,5 @@
 /target
+/vendor
+.direnv
+flake.lock
+flake.lock
