@@ -1,5 +1,5 @@
 /target
 /vendor
-.direnv
-flake.lock
+/.direnv
+/flake.lock
 flake.lock
